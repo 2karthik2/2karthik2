@@ -49,8 +49,7 @@ March 2019 - Nov 2020
 ## 🎓 Education  
 
 - **Bachelor of Science**: Aurora Degree College (OU)  
-- **Intermediate**: Narayana Junior College - MPC  
-- **SSC**: Brilliant Grammar High School  
+- **Intermediate**: Narayana Junior College - MPC   
 
 ---
 
@@ -68,5 +67,3 @@ March 2019 - Nov 2020
 
 ---
 
-## 📜 Declaration  
-I hereby declare that the particulars of information and facts stated herein above are true, correct, and complete to the best of my knowledge and belief.
